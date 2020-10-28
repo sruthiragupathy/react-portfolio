@@ -1,83 +1,91 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Sruthi Ragupathy",
+    "occupation": "MERN Stack developer",
+    "description": "Data Engineer by Day, Web Developer by Night",
+    "image": "Sruthi.jpg",
+    "bio": "My name is Sruthi, I'm a Full Stack ReactJS Developer. Currently I'm working at Mr Cooper, a US based finance company while also freelancing.",
+    "contactmessage": "Get in touch with me to receive further details, create a fullstack project or anything else.",
+    "email": "sruthiragupathy@gmail.com",
+    "phone": "7339053069",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      
+      "city": "Coimbatore",
+      "state": "India",
+      "zip": "642005"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
+     {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/sruthi-ragupathy-7740ab172/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/sruthiragupathy",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "http://github.com/sonnysangha",
-        "className": "fa fa-github"
+        "name": "instagram",
+        "url": "https://www.instagram.com/sruthi_codes/",
+        "className": "fa fa-instagram"
+      },
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sruthi.ragupathy.5",
+        "className": "fa fa-facebook"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I have a good command over data and been part of lot of open source projects. I have 1+ years of experience in web development.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "PSG College of Technology",
+        "degree": "Bachelor of Engineering in Computer Science",
+        "graduated": "June 2020",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Mr Cooper",
+        "title": "Software Engineer",
+        "years": "July 2020 - Present",
+        "description": "Performing Extraction, Transformation and Loading (ETL) and Quality assurance of data"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Mr Cooper",
+        "title": "Graduate Intern",
+        "years": "January 2020 - June 2020",
+        "description": "Dealt with a large volume of data on a daily basis"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "85%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "90%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "70%"
+      },
+      {
+        "name": "MySql",
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Figma",
         "level": "55%"
       },
       {
@@ -93,46 +101,42 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Voice based news reader app",
+        "category": "Built with ReactJS and material UI framework",
+        "image": "news-reader.jpeg",
+        "url": "https://alan-news-reader-sruthi.netlify.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Weather App",
+        "category": "A progressive web app built with React.js",
+        "image": "weather.jpeg",
+        "url": "https://weather-pwa-sruthi.netlify.app"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Todo App",
+        "category": "A basic todo app built with React js",
+        "image": "todo.jpeg",
+        "url": "https://sruthi-todo.netlify.app"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Var vs Let vs Const",
+        "category": "A blog describing the javascript keywords",
+        "image": "keywords.png",
+        "url": "https://dev.to/sruthiragupathy/var-vs-let-vs-const-in-javascript-3aeb"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Objects in javascript",
+        "category": "A blog describing the javascript objects",
+        "image": "objects.jpeg",
+        "url": "https://dev.to/sruthiragupathy/objects-in-javascript-gik  "
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "To catch up so quickly and to be par with the pace at which we operate, definitely shows your willingness and passion to learn more every passing day.Way to go!!Thank you for adapting so quickly!",
+        "user": "Sriram - Lead Engineer,Mr Cooper"
       }
     ]
   }
